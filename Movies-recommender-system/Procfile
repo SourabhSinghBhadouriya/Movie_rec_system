@@ -1,0 +1,1 @@
+web: sh shutup.sh && streamlit run app.py
